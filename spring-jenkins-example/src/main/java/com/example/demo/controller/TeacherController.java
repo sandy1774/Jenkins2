@@ -27,7 +27,7 @@ public class TeacherController {
 		List<String> list=Arrays.asList("Arun", "Khabib", "Conor");
 		
 		if(dept.equals("ece")) {
-			list = Arrays.asList("Arun", "Khabib", "Conor");
+			list = Arrays.asList("Praveen", "Khabib", "Conor");
 		}
 		return list.toString();
 	}
